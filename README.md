@@ -27,7 +27,7 @@
 <a href="https://www.php.net/manual/en/index.php"><img src="./assets/php.png" alt="php" height="100" title="PHP documentation"></a>
 
 
-# 💻 My favorite tools and technologies
+# 💻 My favorite languages and technologies
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <>
