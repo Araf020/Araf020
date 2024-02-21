@@ -16,14 +16,14 @@
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="dotnet" height="100" title="dotnet reference"></a>
 <a href="https://spring.io/projects/spring-boot"><img src="./assets/spring-boot-logo-png-4-transparent.png" alt="spring boot" height="100" title="spring reference"></a>
 <a href="https://legacy.reactjs.org/docs/getting-started.html"><img src="https://skillicons.dev/icons?i=react" alt="react-js" height="100" title="React-Js documentation"></a> 
-<a style="padding-left:20px" href="https://laravel.com/docs/10.x"><img src="./assets/Laravel.svg.png" alt="react-native" height="90" title="Laravel documentation"></a>
+<a style="padding-left:20px" href="https://laravel.com/docs/10.x"><img src="https://skillicons.dev/icons?i=laravel" alt="react-native" height="90" title="Laravel documentation"></a>
 <a href="https://nodejs.org/en/docs/guides"><img src="./assets/node.svg" alt="node" height="100" title="Node documentation"></a>
 <a href="https://docs.oracle.com/en/java/"><img src="./assets/java-original.svg" alt="java" height="100" title="Java documentation"></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="./assets/csharp.png" alt="java" height="100" title="Java documentation"></a>
 <a href="https://docs.python.org/3/library/index.html"><img src="./assets/python-original.svg" alt="python" height="100" title="Python documentation"></a>
 <a href="https://devdocs.io/cpp/"><img src="./assets/cpp.svg.png" alt="python" height="100" title="Python documentation"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./assets/Javascript_badge.svg.png" alt="php" height="100" title="JS documentation"></a>
-<a href="https://www.php.net/manual/en/index.php"><img src="./assets/php.png" alt="php" height="100" title="PHP documentation"></a>
+<!-- <a href="https://www.php.net/manual/en/index.php"><img src="./assets/php.png" alt="php" height="100" title="PHP documentation"></a> -->
 
 
 # 💻 My favorite languages and technologies
@@ -35,15 +35,15 @@
       <br>Java
      </td>
     <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C#
+     </td>
+    <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
       </a>
       <br>Python
     </td>
-   <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
-     </td>
      <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
       <br>CPP
@@ -75,13 +75,25 @@
     
   </tr>
   <tr>
-     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-      <br>PHP
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="SpringBoot" />
+      <br>Spring Boot
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="dotnet" />
+      <br>.NET Core
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=visualstudio" width="48" height="48" alt="visualstudio" />
+      <br>Visual Studio
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
       <br>VsCode
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="idea" />
+      <br>Intellij IDEA
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
@@ -91,18 +103,6 @@
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
       <br>Git
     </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
     <!-- <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
       <br>Tailwind
@@ -111,10 +111,11 @@
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
     </td> -->
-        <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
       <br>Nodejs
       </td>
+    
             
             
  </tr>
