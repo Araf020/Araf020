@@ -15,9 +15,8 @@
 
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="dotnet" height="100" title="dotnet reference"></a>
 <a href="https://spring.io/projects/spring-boot"><img src="./assets/spring-boot-logo-png-4-transparent.png" alt="spring boot" height="100" title="spring reference"></a>
-<a href="https://legacy.reactjs.org/docs/getting-started.html"><img src="./assets/react-1-logo-png-transparent.png" alt="react-js" height="100" title="React-Js documentation"></a> 
- <a style="padding-left:10px" href="https://laravel.com/docs/10.x"><img src="./assets/Laravel.svg.png" alt="react-native" height="90" title="Laravel documentation"></a>
-
+<a href="https://legacy.reactjs.org/docs/getting-started.html"><img src="https://skillicons.dev/icons?i=react" alt="react-js" height="100" title="React-Js documentation"></a> 
+<a style="padding-left:20px" href="https://laravel.com/docs/10.x"><img src="./assets/Laravel.svg.png" alt="react-native" height="90" title="Laravel documentation"></a>
 <a href="https://nodejs.org/en/docs/guides"><img src="./assets/node.svg" alt="node" height="100" title="Node documentation"></a>
 <a href="https://docs.oracle.com/en/java/"><img src="./assets/java-original.svg" alt="java" height="100" title="Java documentation"></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="./assets/csharp.png" alt="java" height="100" title="Java documentation"></a>
