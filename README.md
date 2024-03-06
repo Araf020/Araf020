@@ -159,7 +159,6 @@
 <a href="https://gist.github.com/Araf020"><img src="https://profile-counter.glitch.me/{Araf020}/count.svg" alt=" :: Visitor's Count" /></a>
 </p>
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 
 # Reach out to me #
 <a href="mailto:arafat.hossain.17050@gmail.com"><img src="./assets/gmail.png" alt="Gmail" height="50" title="Send mail"></a>
