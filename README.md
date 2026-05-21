@@ -13,6 +13,30 @@
 
 </div>
 
+# 💼 Work Experience #
+
+### 🏢 Software Engineer
+**WSD Group - Bangladesh Development Center** &nbsp;|&nbsp; *February 2025 – Present*
+
+- 🚀 **CI/CD Pipeline Setup:** Designed and implemented a CI pipeline on GitHub Actions, automating build, test, and code quality checks, reducing manual overhead and ensuring consistent, reliable deployments across environments.
+- 🏗️ **Architecture Redesign:** Played a key role in migrating the system from a microservices to a monolithic architecture, improving data consistency across the platform, eliminating polyglot persistence challenges, and simplifying the overall infrastructure for better long-term maintainability.
+- 🤖 **Automated Dependency Management:** Established automated workflows for upgrading critical and vulnerable libraries, significantly reducing security exposure and keeping the codebase aligned with the latest stable dependencies.
+- 🧠 **AI-Augmented Development:** Actively leveraged AI tools to accelerate development cycles, debug complex issues faster, and improve code quality, contributing to higher team throughput and reduced time-to-resolution on technical challenges.
+- ⚡ **Software Reliability & Performance:** Took ownership of identifying and resolving performance bottlenecks, implementing targeted optimizations that enhanced system stability, reduced latency, and improved overall service resilience under load.
+- 🌱 **Engineering Culture:** Actively participated in code reviews and championed best practices and TDD, contributing to a culture of continuous improvement within the development team.
+
+---
+
+### 🏢 Junior Software Engineer
+**WSD Group - Bangladesh Development Center** &nbsp;|&nbsp; *March 2024 – January 2025*
+
+- 📈 **Enhanced System Efficiency:** Contributed to the development and optimization of a Spring Boot-based microservices architecture, ensuring seamless real-time data integration from major financial indices like S&P 500 and Nasdaq etc.
+- 🔄 **Agile Practices Contributor:** Actively practiced Agile methodologies and Test-Driven Development (TDD) within the team, contributing to a significant increase in code quality.
+- 📊 **Real-Time Data Processing:** Assisted in designing and developing robust microservices for processing high-frequency market data, ensuring the accurate and timely generation of structured financial documents used for investment decision-making.
+- 🤝 **Continuous Improvement:** Participated in code reviews and mentoring sessions, fostering a culture of continuous improvement and knowledge sharing within the development team.
+
+---
+
 # Main Skills #
 
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="dotnet" height="100" title="dotnet reference"></a>
