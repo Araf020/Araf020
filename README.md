@@ -3,13 +3,12 @@
 
 <div>
 <br/>
-- AI powered Data Analytics Expert <br/>
-- Build AI agents and AI powered Apps <br/>
-- 🔭 Full-stack developer with 3+ years of experience designing and building scalable, high-performance web, and desktop applications<br/>
-- 🌱 Proficient in front-end technologies like React JS, Razor  as well as back-end technologies like Spring Boot, ASP.NET Core, Node.js, and PHP<br/>
-- Experienced in developing financial systems,Laboratory Information system for clinical instruments<br/>
-- Developed and trained some machine learning model<br/>
-- Deep knowledge about deep learning, Generative AI, recommendation system and reinforcement system.</br>
+
+- 🧑‍💻 **Software Engineer** with 3+ years of experience designing and building scalable, high-performance web and desktop applications<br/>
+- ⚙️ **Backend-focused** with strong proficiency in Spring Boot, ASP.NET Core, and Node.js — and equally comfortable on the frontend with React JS and modern UI frameworks<br/>
+- 🤖 **AI-augmented engineer** — actively leverages agentic AI workflows and LLM tooling to boost development productivity, accelerate debugging, and deliver higher quality software faster<br/>
+- 💹 Experienced building financial systems and Laboratory Information Systems for clinical instruments<br/>
+- 🧠 Hands-on with Machine Learning, Deep Learning, and Generative AI — including training custom models and integrating AI capabilities into production applications<br/>
 
 </div>
 
