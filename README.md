@@ -5,7 +5,7 @@
 <br/>
 - AI powered Data Analytics Expert <br/>
 - Build AI agents and AI powered Apps <br/>
-- 🔭 Full-stack developer with 1 years of experience designing and building scalable, high-performance web, and desktop applications<br/>
+- 🔭 Full-stack developer with 3+ years of experience designing and building scalable, high-performance web, and desktop applications<br/>
 - 🌱 Proficient in front-end technologies like React JS, Razor  as well as back-end technologies like Spring Boot, ASP.NET Core, Node.js, and PHP<br/>
 - Experienced in developing financial systems,Laboratory Information system for clinical instruments<br/>
 - Developed and trained some machine learning model<br/>
