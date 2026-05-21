@@ -36,6 +36,17 @@
 
 ---
 
+### 🏢 Software Programmer
+**GrameenBank - IT** &nbsp;|&nbsp; *June 2023 – February 2024*
+
+- 🛠️ **Software Development:** Actively contributed to the development and maintenance of a micro credit system using .NET Core and a Human Resource Management System using ASP.NET Core MVC and EF Core 6.
+- 📊 **Reporting:** Contributed to the development of dynamic reporting features for the micro credit system.
+- 💰 **Payroll Module Development:** Actively participated in the development of a custom payroll module within the HR system, reducing errors and ensuring timely salary disbursements.
+- 🤝 **Collaboration:** Worked closely with cross-functional teams to gather and analyze user requirements, ensuring both systems met the needs of end users and internal staff.
+- 🔧 **Support and Maintenance:** Participated in regular updates and provided technical support, contributing to high system reliability and uptime.
+
+---
+
 # Main Skills #
 
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="dotnet" height="100" title="dotnet reference"></a>
